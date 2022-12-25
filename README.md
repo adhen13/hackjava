@@ -89,7 +89,7 @@ cat ~/.ssh/id_rsa.pub >> ~/.ssh/authorized_keys
 ## 4. Install PHP MySQL Apache dengan Docker & Install Lets Encrypt
 ```
 # masuk folder, buka terminal di /home/aplikasi folder
-git clone https://github.com/dirumahrafif/docker-apache-php8-mysql.git .
+git clone https://github.com/adhen13/docker-container.git .
 docker-compose up -d
 ```
 Proses install letsencrypt
